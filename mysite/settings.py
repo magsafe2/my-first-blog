@@ -25,7 +25,7 @@ SECRET_KEY = 'm@%s&vz0-sqt41o!!-cs1s9ntzva(!k#fb%q=y#d(o@4v729zv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<magsafe2>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'magsafe2.pythonanywhere.com']
 
 
 # Application definition
